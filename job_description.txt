@@ -1,0 +1,25 @@
+Job Title: Senior AI Engineer (Search & Retrieval)
+Location: Bangalore / Remote
+Experience: 5+ Years
+
+About the Role:
+We are looking for a Senior AI Engineer to build and scale our next-generation search and recommendation systems. You will focus on applying LLMs and advanced retrieval techniques to large-scale product datasets. We prioritize engineers who have shipped real products to users over purely academic research.
+
+Key Responsibilities:
+- Design, build, and deploy Retrieval-Augmented Generation (RAG) pipelines.
+- Implement vector search at scale using tools like Pinecone, Weaviate, or Milvus.
+- Fine-tune and optimize embedding models for domain-specific NLP tasks.
+- Write highly optimized, production-ready Python code.
+- Collaborate with product teams to translate business requirements into technical AI solutions.
+
+Required Qualifications:
+- 5+ years of applied Machine Learning and Software Engineering experience.
+- Deep expertise in Natural Language Processing (NLP) and Information Retrieval.
+- Proven track record of deploying LLMs or complex ML models into production environments.
+- Strong proficiency in Python, PyTorch, and cloud platforms (AWS/GCP).
+- Experience handling large-scale data and optimizing for latency and throughput.
+
+Preferred:
+- Previous experience building robust vector search systems.
+- A strong portfolio of applied AI in product-focused companies.
+- Immediate joiner or short notice period (under 30 days).
